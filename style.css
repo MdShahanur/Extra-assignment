@@ -1,0 +1,47 @@
+.header{
+    background-color: blue;
+    height: 100px;
+    
+}
+.nav{
+    background-color: green;
+    height: 80px;
+   
+
+}
+.maincontent{
+    overflow: hidden;
+
+}
+.lsaid{
+    background-color:lightcoral;
+    width: 49.5%;
+    height: 600px;float: left;
+   
+}
+.sec{
+    background-color: lightseagreen;
+    height: 300px;
+
+}
+.article{
+    background-color: rgb(25, 13, 197);
+    height: 300px;
+
+
+}
+.rsaid{
+    background-color:rgb(184, 8, 104);
+    width: 49.5%;
+    height: 600px;
+    float: right;
+   
+    
+}
+footer{
+    background-color: lime;
+    height: 80px;
+}
+h1{
+    text-align: center;
+}
